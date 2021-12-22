@@ -1,0 +1,10 @@
+#undef  runtracmass
+#define periodic_ew
+#undef  periodic_ns
+#undef  allow_particle
+#undef  relaxation
+#define file_output
+#define file_output_cdf
+#undef file_output_bin
+#undef  gotm_call
+#undef  implicit
